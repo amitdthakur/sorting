@@ -9,7 +9,7 @@ Implementation of below sorting algorithms using java
 
 ### How to import
 
-*  Clone the repository .
+*  Clone the repository Test.
 *  Import this project as maven project to start working.
 
 ### How to run
